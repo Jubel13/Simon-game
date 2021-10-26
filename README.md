@@ -6,6 +6,8 @@ This project is from udemy course: <a href="https://www.udemy.com/course/the-com
 
 This project simulate <a href="https://en.wikipedia.org/wiki/Simon_(game)" target="_blank">Simon Game</a>
 
+This project using JQuery instead of vanilla Javascript.
+
 To view this app, go to this link : https://jubel13.github.io/Simon-game/.
 
 This web app must be started by pressing a key on keyboard, not working on mobile phone without keyboard.
