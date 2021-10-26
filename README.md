@@ -4,7 +4,7 @@
 
 This project is from udemy course: <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a> by Angela Yu.
 
-This project simulate 'Simon Game'
+This project simulate <a href="https://en.wikipedia.org/wiki/Simon_(game)">Simon Game</a>
 
 To view this app, go to this link : https://jubel13.github.io/Simon-game/.
 
